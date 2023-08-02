@@ -1,3 +1,4 @@
+Development
 # Wordle_Java
 Wordle is a game that give players six chances to guess a random 5 selected letter word. 
 
